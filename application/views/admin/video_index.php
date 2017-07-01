@@ -1,0 +1,1 @@
+<a href="/admin/video/add" class="btn">Добавить видео</a></h3>

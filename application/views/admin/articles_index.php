@@ -1,0 +1,1 @@
+<h3><a href="/admin/articles/add" class="btn">Добавить статью</a></h3>
